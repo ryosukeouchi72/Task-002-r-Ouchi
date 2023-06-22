@@ -1,0 +1,26 @@
+body{
+  margin: 0;
+  font-size: 1rem;
+  display: flex;
+  min-height: 100vh;
+}
+
+main{
+  width: 700px;
+  margin: 0 auto;
+}
+
+aside{
+  background-color: cadetblue;
+  width: 250px;
+  min-width: 25%;
+
+}
+
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
